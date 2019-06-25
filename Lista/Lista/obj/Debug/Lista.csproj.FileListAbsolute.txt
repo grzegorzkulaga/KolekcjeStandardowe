@@ -1,0 +1,7 @@
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Lista\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Lista\Lista\obj\Debug\Lista.pdb
