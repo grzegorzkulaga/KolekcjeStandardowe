@@ -43,6 +43,16 @@ namespace Lista
             {
                 Console.WriteLine(gatunek);
             }
+
+            if (gatunki.Contains("krowa", StringComparer.OrdinalIgnoreCase))
+            {
+                Console.WriteLine("true");
+            }
+            else
+            {
+                Console.WriteLine("false");
+            }
+
             Console.WriteLine(gatunki.IndexOf("mucha"));
 
             gatunki.Reverse();
@@ -57,14 +67,7 @@ namespace Lista
                 Console.WriteLine(gatunek);
             }
 
-            if (gatunki.Contains("krowa", StringComparer.OrdinalIgnoreCase))
-            {
-                Console.WriteLine("true");
-            }
-            else
-            {
-                Console.WriteLine("false");
-            }
+            
         }
     }
 }
