@@ -1,0 +1,6 @@
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Zbior\Zbior\obj\Debug\Zbior.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Zbior\Zbior\bin\Debug\Zbior.exe.config
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Zbior\Zbior\bin\Debug\Zbior.exe
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Zbior\Zbior\bin\Debug\Zbior.pdb
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Zbior\Zbior\obj\Debug\Zbior.exe
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Zbior\Zbior\obj\Debug\Zbior.pdb
