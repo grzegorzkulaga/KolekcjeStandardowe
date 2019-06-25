@@ -1,0 +1,7 @@
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Slownik\Slownik\bin\Debug\Slownik.exe.config
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Slownik\Slownik\bin\Debug\Slownik.exe
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Slownik\Slownik\bin\Debug\Slownik.pdb
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Slownik\Slownik\obj\Debug\Slownik.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Slownik\Slownik\obj\Debug\Slownik.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Slownik\Slownik\obj\Debug\Slownik.exe
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Slownik\Slownik\obj\Debug\Slownik.pdb
