@@ -1,0 +1,7 @@
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Kolejka_i_Stos\Kolejka_i_Stos\bin\Debug\Kolejka_i_Stos.exe.config
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Kolejka_i_Stos\Kolejka_i_Stos\bin\Debug\Kolejka_i_Stos.exe
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Kolejka_i_Stos\Kolejka_i_Stos\bin\Debug\Kolejka_i_Stos.pdb
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Kolejka_i_Stos\Kolejka_i_Stos\obj\Debug\Kolejka_i_Stos.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Kolejka_i_Stos\Kolejka_i_Stos\obj\Debug\Kolejka_i_Stos.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Kolejka_i_Stos\Kolejka_i_Stos\obj\Debug\Kolejka_i_Stos.exe
+C:\Users\GregoreK\Documents\GitHub\KolekcjeStandardowe\Kolejka_i_Stos\Kolejka_i_Stos\obj\Debug\Kolejka_i_Stos.pdb
